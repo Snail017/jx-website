@@ -124,11 +124,11 @@
 		top: 10%;
 		line-height: 30px;
 	}
-
 	.imgBox>li {
 		width: 205px;
 		float: left;
 		transition: all .3s;
+		display: block;
 		position: relative;
 	}
 
